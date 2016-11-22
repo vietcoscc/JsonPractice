@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JsonPractice</string>
+    <string name="buyTM">Mua TM</string>
+    <string name="sellTM">Bán TM</string>
+    <string name="buyCK">Mua CK</string>
+    <string name="sellCK">Bán CK</string>
+    <string name="saveOffline">Save offline</string>
+</resources>
